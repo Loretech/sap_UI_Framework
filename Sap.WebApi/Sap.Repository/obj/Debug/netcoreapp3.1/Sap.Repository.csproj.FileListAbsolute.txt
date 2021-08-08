@@ -1,9 +1,0 @@
-K:\Source Code\POC\hcl test\Sap.WebApi\Sap.Repository\bin\Debug\netcoreapp3.1\Sap.Repository.deps.json
-K:\Source Code\POC\hcl test\Sap.WebApi\Sap.Repository\bin\Debug\netcoreapp3.1\Sap.Repository.dll
-K:\Source Code\POC\hcl test\Sap.WebApi\Sap.Repository\bin\Debug\netcoreapp3.1\Sap.Repository.pdb
-K:\Source Code\POC\hcl test\Sap.WebApi\Sap.Repository\obj\Debug\netcoreapp3.1\Sap.Repository.AssemblyInfoInputs.cache
-K:\Source Code\POC\hcl test\Sap.WebApi\Sap.Repository\obj\Debug\netcoreapp3.1\Sap.Repository.AssemblyInfo.cs
-K:\Source Code\POC\hcl test\Sap.WebApi\Sap.Repository\obj\Debug\netcoreapp3.1\Sap.Repository.csproj.CoreCompileInputs.cache
-K:\Source Code\POC\hcl test\Sap.WebApi\Sap.Repository\obj\Debug\netcoreapp3.1\Sap.Repository.dll
-K:\Source Code\POC\hcl test\Sap.WebApi\Sap.Repository\obj\Debug\netcoreapp3.1\Sap.Repository.pdb
-K:\Source Code\POC\hcl test\Sap.WebApi\Sap.Repository\obj\Debug\netcoreapp3.1\Sap.Repository.csprojAssemblyReference.cache
